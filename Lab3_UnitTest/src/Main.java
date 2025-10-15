@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public void Cute() {
-        System.out.println("SeThu");
+        System.out.println("CUTE");
     }
     public static void main(String[] args) {
         Main test = new Main();
